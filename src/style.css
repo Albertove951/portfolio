@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    background-color: rgb(114, 17, 17);
+    display: flex;
+    height: 115px;
+}
+
+.header h3{
+    font-size: 70px;
+    
+}
+
+.header img {
+    height: 100px;
+}

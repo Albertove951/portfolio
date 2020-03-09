@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.container {
+    background-color: darkgrey;
+    height: 100%;
+}
 
 .header {
     background-color: rgb(114, 17, 17);
@@ -17,4 +21,31 @@
 
 .header img {
     height: 100px;
+}
+
+.about-me {
+   margin-top: 100px;
+   margin-left: 100px;
+   margin-right: 760px;
+   text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.headshot {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+}
+
+.about-me-title {
+    margin-top: 30px;
+    font-size: xx-large;
+}
+
+.about-me-content {
+    text-align: left;
+    font-size: large;
 }
